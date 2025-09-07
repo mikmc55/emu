@@ -1,0 +1,4 @@
+# Set wallpaper
+feh --bg-scale /home/configs/wallpaper.jpg &
+
+# Auto-start any additional applications
